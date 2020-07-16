@@ -1,0 +1,24 @@
+name: media_sharing_webserver
+application: nginx
+version : 3.56
+ec2_machine: t2_micro
+ram: 2GB
+
+name: media_sharing_ackend
+application: apache
+version : 8.2
+ec2_machine: t2_micro
+ram: 8GB
+
+name: media_sharing_webserver
+application: nginx
+version : 3.56
+ec2_machine: t2_micro
+ram: 2GB
+
+name: media_sharing_webserver
+application: nginx
+version : 3.56
+ec2_machine: t2_micro
+ram: 2GB
+
